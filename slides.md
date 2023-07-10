@@ -377,14 +377,15 @@ class: text-xs
 
 <div>
 
-Performance：评估页面的内存使用情况，分析页面的响应时间和交互时间，以帮助开发人员更好地了解和改进网站性能。
+**Performance**：评估页面的内存使用情况，分析页面的响应时间和交互时间，以帮助开发人员更好地了解和改进网站性能。
 
+<img src="/assets/performance.png">
 
 </div>
 
 <div>
 
-Lighthouse：Chrome开源的自动化工具，提供可量化的性能指标，并提供精确的网站性能改进建议。
+**Lighthouse**：Chrome开源的自动化工具，提供可量化的性能指标，并提供精确的网站性能改进建议。
 
 Lighthouse使用方法1：F12使用
 
@@ -407,7 +408,7 @@ npx lighthouse '你需要测试的url地址' --locale zh --quiet --chrome-flags=
 
 <div>
 
-Aegis：一站式前端监控解决方案，涵盖了日志上报，错误监控，性能监控，资源测速等功能。
+**阿里云/腾讯云前端性能监控**：一站式前端监控解决方案，涵盖了日志上报，错误监控，性能监控，资源测速等功能。
 
 可以看作**最终解决方案**
 
@@ -432,7 +433,7 @@ class: text-xs
 
 **提高 FCP 的核心理念：减少初始化视图内容，减少初始化下载资源大小，避免 js 阻塞**
 
-**关键词：splitChunks、gzip、minicss、路由懒加载**
+**关键词：splitChunks、gzip、externals、minicss、路由懒加载**
 
 ---
 class: text-xs
