@@ -435,6 +435,18 @@ class: text-xs
 
 **关键词：splitChunks、gzip、externals、minicss、路由懒加载**
 
+<div grid="~ cols-4 gap-4" m="-t-4">
+
+<img src="/assets/debugger-delete.png">
+
+<img src="/assets/gzip.png">
+
+<img src="/assets/split-chunks.png">
+
+<img src="/assets/externals.png">
+
+</div>
+
 ---
 class: text-xs
 ---
