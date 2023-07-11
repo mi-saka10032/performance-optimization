@@ -12,7 +12,7 @@ info: |
 drawings:
   persist: false
 transition: slide-left
-title: Welcome to Slidev
+title: 前端性能优化分享
 ---
 
 # 前端性能优化分享
